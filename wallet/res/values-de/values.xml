@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>GRS, 8 Dezimalen</item>
-		<item>GRS, 6 Dezimalen</item>
-		<item>GRS, 4 Dezimalen</item>
-		<item>mGRS, 2 Dezimalen</item>
-		<item>µGRS, keine Dezimalen</item>
+		<item>NMC, 8 Dezimalen</item>
+		<item>NMC, 6 Dezimalen</item>
+		<item>NMC, 4 Dezimalen</item>
+		<item>mNMC, 2 Dezimalen</item>
+		<item>µNMC, keine Dezimalen</item>
 	</string-array>
 
 </resources>

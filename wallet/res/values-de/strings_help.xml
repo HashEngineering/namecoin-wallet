@@ -5,20 +5,20 @@
 <![CDATA[
 		<p>
 <<<<<<< HEAD
-			Im linken oberen Teil des Bildschirms wird Deine GroestlCoin-Adresse angezeigt, mit der Du Zahlungen von anderen Teilnehmern empfangen kannst.
+			Im linken oberen Teil des Bildschirms wird Deine Namecoin-Adresse angezeigt, mit der Du Zahlungen von anderen Teilnehmern empfangen kannst.
 			Mit einem Tap auf die Adresse wird eine neue Adresse generiert.
 =======
-			Im linken oberen Teil des Bildschirms wird dein aktuelles Guthaben in GroestlCoin und einer ausgewählten Währung angezeigt.
+			Im linken oberen Teil des Bildschirms wird dein aktuelles Guthaben in Namecoin und einer ausgewählten Währung angezeigt.
 			Mit einem Tap darauf gelangst du in die Liste der verfügbaren Währungen, ein weiterer Tap auf eine der Währungen setzt sie als Standardwährung.
 >>>>>>> origin/master
 		</p>
 		<p>
-			Der QR-Code auf dem oberen rechten Teil des Displays enthält ebenfalls Deine GroestlCoin-Adresse und kann von einem anderen Teilnehmer eingescannt werden.
+			Der QR-Code auf dem oberen rechten Teil des Displays enthält ebenfalls Deine Namecoin-Adresse und kann von einem anderen Teilnehmer eingescannt werden.
 			Mit einem Tap auf den QR-Code wird dieser vergrößert.
 		</p>
 		<p>
 <<<<<<< HEAD
-			In der Mitte des Bildschirms wird Dein aktuelles GroestlCoin-Guthaben angezeigt.
+			In der Mitte des Bildschirms wird Dein aktuelles Namecoin-Guthaben angezeigt.
 			Außerdem wird der entsprechende Wert in einer ausgewählten Währung angezeigt.
 			Ein Tap auf die Guthabenanzeige öffnet eine Liste mit allen verfügbaren Währungen, ein weiterer Tap auf eine der verfügbaren Währungen setzt die ausgewählte Währung als Standardwährung.
 		</p>
@@ -39,7 +39,7 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			In diesem Dialogfeld kann eine Zahlung von einem anderen Teilnehmer angefordert werden, der dafür GroestlCoin Wallet auf seinem Gerät installiert haben sollte.
+			In diesem Dialogfeld kann eine Zahlung von einem anderen Teilnehmer angefordert werden, der dafür Namecoin Wallet auf seinem Gerät installiert haben sollte.
 		</p>
 		<p>
 			Dafür muss der angeforderte Betrag eingegeben werden.
@@ -59,15 +59,15 @@
 <![CDATA[
 		<p>
 			Dieses Dialogfeld wird geöffnet, wenn der Zahlungsprozess initiiert wurde.
-			Dies geschieht entweder durch einen Tap auf "Zahlung senden" auf der Startseite oder einen Tap auf eine GroestlCoin-URL im mobilen Browser.
+			Dies geschieht entweder durch einen Tap auf "Zahlung senden" auf der Startseite oder einen Tap auf eine Namecoin-URL im mobilen Browser.
 		</p>
 		<p>
 			Im ersten Feld muss die Empfängeradresse eingegeben werden.
 			Wenn eine Adresse im Adressbuch gespeichert wurde, wird diese automatisch vervollständigt.
-			Es kann ebenfalls ein QR-Code mit GroestlCoin-Adressen oder Zahlungsanforderungen eingescannt werden, indem man den QR-Button in der Aktionsleiste tappt.
+			Es kann ebenfalls ein QR-Code mit Namecoin-Adressen oder Zahlungsanforderungen eingescannt werden, indem man den QR-Button in der Aktionsleiste tappt.
 		</p>
 		<p>
-			Im nächsten Feld wird das verschickbare GroestlCoin-Guthaben angezeigt.
+			Im nächsten Feld wird das verschickbare Namecoin-Guthaben angezeigt.
 			Falls dieses Guthaben vom angezeigten Guthaben auf der Hauptseite abweicht, sind noch nicht alle Transaktionen bestätigt.
 		</p>
 		<p>
@@ -75,7 +75,7 @@
 		</p>
 		<p>
 			Eine Zahlung kann auch offline eingegeben werden.
-			Sie wird bei einem Neustart von GroestlCoin Wallet ausgeführt.
+			Sie wird bei einem Neustart von Namecoin Wallet ausgeführt.
 			Wenn eine Zahlung so schnell wie möglich bestätigt werden soll, ist eine gute Verbindung (z.B. über WLAN) vonnöten.
 		</p>
 		<p>
@@ -91,8 +91,8 @@
 			<b>Wichtige Sicherheitshinweise:</b>
 		</p>
 		<p>
-			GroestlCoins werden lokal auf dem Gerät gespeichert.
-			<b>Wenn das Gerät verloren geht, gehen alle GroestlCoins verloren.</b>
+			Namecoins werden lokal auf dem Gerät gespeichert.
+			<b>Wenn das Gerät verloren geht, gehen alle Namecoins verloren.</b>
 		</p>
 		<p>
 			Das bedeutet, <b>du musst deine Wallet sichern</b>!
@@ -100,18 +100,18 @@
 			Hebe deine Sicherung gut auf und vergiß das Passwort nicht.
 		</p>
 		<p>
-			<b>Vor der Deinstallation</b> (oder dem Löschen der App-Daten/Formatierung des Geräts), <b>müssen alle GroestlCoins auf eine andere Wallet übertragen werden</b>.
-			Auf dem Gerät verbleibende GroestlCoins gehen verloren.
+			<b>Vor der Deinstallation</b> (oder dem Löschen der App-Daten/Formatierung des Geräts), <b>müssen alle Namecoins auf eine andere Wallet übertragen werden</b>.
+			Auf dem Gerät verbleibende Namecoins gehen verloren.
 		</p>
 		<p>
 			<b>Zahlungen können nicht rückgängig gemacht werden</b>.
-			Wenn GroestlCoins ins Unbekannte geschickt werden, gibt es kaum Möglichkeit, sie zurückzuholen.
+			Wenn Namecoins ins Unbekannte geschickt werden, gibt es kaum Möglichkeit, sie zurückzuholen.
 		</p>
 		<p>
 			<b>Halte dein Mobilgerät sicher!</b>
 			Roote dein Gerät nicht.
 			Installiere nur Apps, denen du vollkommen vertraust.
-			Bösartige Apps könnten versuchen, die in der Wallet gespeicherten GroestlCoins zu stehlen.
+			Bösartige Apps könnten versuchen, die in der Wallet gespeicherten Namecoins zu stehlen.
 		</p>
 		<p>
 			Minimiere das Risiko!

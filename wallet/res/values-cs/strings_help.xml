@@ -4,17 +4,17 @@
 <![CDATA[
 		<p>
 <<<<<<< HEAD
-			Horní levá část obrazovky zobrazuje Vaši aktuální GroestlCoin adresu, kterou druhá strana potřebuje znát, aby Vám mohla zaslat platbu.
+			Horní levá část obrazovky zobrazuje Vaši aktuální Namecoin adresu, kterou druhá strana potřebuje znát, aby Vám mohla zaslat platbu.
 			Kliknutím na adresu ji změníte.
 		</p>
 		<p>
-			QR kód na pravé straně obsahuje Vaši GroestlCoin adresu a může být použit pro naskenování druhou stranou.
+			QR kód na pravé straně obsahuje Vaši Namecoin adresu a může být použit pro naskenování druhou stranou.
 =======
-			Horní levá část obrazovky zobrazuje Vaši aktuální GroestlCoin bilanci včetně odpovídající částky ve vaší lokální měně.
+			Horní levá část obrazovky zobrazuje Vaši aktuální Namecoin bilanci včetně odpovídající částky ve vaší lokální měně.
 			Kliknutím na částku přejdete do seznamu lokálních měn, kde si můžete vybrat jinou.
 		</p>
 		<p>
-			QR kód na pravé straně obsahuje Vaši GroestlCoin adresu a může být použita pro naskenování druhou stranou.
+			QR kód na pravé straně obsahuje Vaši Namecoin adresu a může být použita pro naskenování druhou stranou.
 >>>>>>> origin/master
 			Klepněte na QR kód pro zobrazení větší verze.
 		</p>
@@ -25,7 +25,7 @@
 			Táhnutím vlevo či vpravo je možné aplikovat na seznam filtr.
 		</p>
 		<p>
-			Můžete poslat nebo si vyžádat GroestlCoiny klepnutím na patřičné tlačítko v akční nabídce.
+			Můžete poslat nebo si vyžádat Namecoiny klepnutím na patřičné tlačítko v akční nabídce.
 			Více možností je v nabídce nastavení.
 		</p>
 	]]>
@@ -33,10 +33,10 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Pomocí tohoto dialogu můžete vyžádat GroestlCoiny od někoho jiného (kdo by měl také mít nainstalovanou aplikaci GroestlCoin Wallet).
+			Pomocí tohoto dialogu můžete vyžádat Namecoiny od někoho jiného (kdo by měl také mít nainstalovanou aplikaci Namecoin Wallet).
 		</p>
 		<p>
-			Nejprve zadejte množství GroestlCoinů, které chcete vyžádat.
+			Nejprve zadejte množství Namecoinů, které chcete vyžádat.
 		</p>
 		<p>
 			Potom můžete protistraně nabídnout vygenerovaný QR kód k oskenování,
@@ -44,7 +44,7 @@
 			Druhá strana potom klikne na získanou adresu.
 		</p>
 		<p>
-			V obou případech bude odesílatel uvidí dialog na zasílání GroestlCoinů s předvzplněnými údaji.
+			V obou případech bude odesílatel uvidí dialog na zasílání Namecoinů s předvzplněnými údaji.
 			Pokud souhlasí, potvrdí zadané informace a dojde k transakci.
 		</p>
 	]]>
@@ -52,7 +52,7 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Právě jste zahájil zasílání GroestlCoinů.
+			Právě jste zahájil zasílání Namecoinů.
 			Sem jste se musel dostat buď přes hlavní obrazovku aplikace, nebo pomocí klepnutí na speciální adresu v prohlížeči.
 		</p>
 		<p>
@@ -61,7 +61,7 @@
 			Můžete také naskenovat QR kód s adresou peněženky nebo požadavek na zaplacení stisknutím tlačítka s QR kódem.
 		</p>
 		<p>
-			V dalším kroku uvidíte, kolik GroestlCoinů můžete momentálně utratit.
+			V dalším kroku uvidíte, kolik Namecoinů můžete momentálně utratit.
 			Jakýkoliv rozdíl vůči zůstatku zobrazenému na výchozí obrazovce je stále nepotvrzen a tudíž nemůže být utracen.
 		</p>
 		<p>
@@ -69,7 +69,7 @@
 		</p>
 		<p>
 			Transakce můžete provádět, i když jste právě offline.
-			Budou provedeny při dalším spuštění aplikace GroestlCoin Wallet.
+			Budou provedeny při dalším spuštění aplikace Namecoin Wallet.
 			Pokud chcete transakci provést co nejrychleji, ujistěte se, že máte rychlé připojení (například jste připojeni pomocí bezdrátové sítě).
 		</p>
 		<p>
@@ -82,29 +82,29 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			Několik slov o bezpečnosti vašich GroestlCoinů:
+			Několik slov o bezpečnosti vašich Namecoinů:
 		</p>
 		<p>
-			GroestlCoiny v aplikaci GroestlCoin Wallet jsou uloženy ve vašem zařízení.
-			<b>Pokud o zařízení přijdete, přijdete i o GroestlCoiny v něm.</b>
+			Namecoiny v aplikaci Namecoin Wallet jsou uloženy ve vašem zařízení.
+			<b>Pokud o zařízení přijdete, přijdete i o Namecoiny v něm.</b>
 			Stejně jako při ztrátě normální peněženky.
 		</p>
 		<p>
-			<b>Před odinstalací aplikace GroestlCoin Wallet</b> (nebo při odstraňování dat/wipe), <b> si přepošlete zůstatek do jiné peněženky</b>.
+			<b>Před odinstalací aplikace Namecoin Wallet</b> (nebo při odstraňování dat/wipe), <b> si přepošlete zůstatek do jiné peněženky</b>.
 			Jakékoliv zůstavší Bitcony budou nenávratně ztraceny.
 		</p>
 		<p>
 			<b>Transakce nemohou být zrušeny</b>.
-			Pokud pošlete GroestlCoiny někam neznámo kam, neexistuje možnost, jak je získat zpět, jedině byste znali příjemce a on měl zrovna náladu je poctivě vrátit.
+			Pokud pošlete Namecoiny někam neznámo kam, neexistuje možnost, jak je získat zpět, jedině byste znali příjemce a on měl zrovna náladu je poctivě vrátit.
 		</p>
 		<p>
 			<b>Udržujte vašeho Androida v bezpečí!</b>
 			Instalujte pouze aplikace, kterým plně důvěřujete.
-			Existují škodlivé aplikace, které vás mohou o vaše GroestlCoiny připravit.
+			Existují škodlivé aplikace, které vás mohou o vaše Namecoiny připravit.
 		</p>
 		<p>
 			Neriskujte zbytečně!
-			<b>V aplikaci GroestlCoin Wallet mějte pouze malé částky</b> pro rychlé použití.
+			<b>V aplikaci Namecoin Wallet mějte pouze malé částky</b> pro rychlé použití.
 		</p>
 	]]>
 	</string>

@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>GRS, 8 dígitos</item>
-		<item>GRS, 6 dígitos</item>
-		<item>GRS, 4 dígitos</item>
-		<item>mGRS, 2 dígitos</item>
-		<item>µGRS, sin dígitos</item>
+		<item>NMC, 8 dígitos</item>
+		<item>NMC, 6 dígitos</item>
+		<item>NMC, 4 dígitos</item>
+		<item>mNMC, 2 dígitos</item>
+		<item>µNMC, sin dígitos</item>
 	</string-array>
 
 </resources>

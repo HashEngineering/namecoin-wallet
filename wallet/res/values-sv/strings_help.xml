@@ -4,11 +4,11 @@
 <![CDATA[
 		<p>
 <<<<<<< HEAD
-			I den övre vänstra delen av skärmen kan du se den GroestlCoin adress som andra behöver för att kunna skicka GroestlCoins till dig.
-			Tryck med fingret på adressen för att skaffa dig en ny GroestlCoin adress.
+			I den övre vänstra delen av skärmen kan du se den Namecoin adress som andra behöver för att kunna skicka Namecoins till dig.
+			Tryck med fingret på adressen för att skaffa dig en ny Namecoin adress.
 		</p>
 		<p>
-			QR koden till höger innehåller din GroestlCoin adress och kan scannas av de som vill skicka dig GroestlCoins.
+			QR koden till höger innehåller din Namecoin adress och kan scannas av de som vill skicka dig Namecoins.
 			Tryck med fingret på QR koden så visas en större version av den.
 		</p>
 		<p>
@@ -16,11 +16,11 @@
 			Plånbokens värde visas också i en vald lokal valuta.
 			Tryck med fingret på balansen så visas plånbokens värde i fler lokala valutor, och om du trycker på en av dem med fingret så blir det den nya valda valutan.
 =======
-			I den övre delen av skärmen visas ditt saldo i GroestlCoin samt värdet i en vald nationell valuta.
+			I den övre delen av skärmen visas ditt saldo i Namecoin samt värdet i en vald nationell valuta.
 			Tryck för att lista nationella valutor, och välj en av valutorna för att visa den som standard.
 		</p>
 		<p>
-			QR-koden till höger inehåller din GroestlCoinaddress och kan scannas av den som vill skicka GroestlCoin till dig.
+			QR-koden till höger inehåller din Namecoinaddress och kan scannas av den som vill skicka Namecoin till dig.
 			Tryck med fingret på QR-koden för att få en större version av den.
 >>>>>>> origin/master
 		</p>
@@ -32,9 +32,9 @@
 		</p>
 		<p>
 <<<<<<< HEAD
-			Du kan sända eller ta emot GroestlCoins genom att trycka med fingret på knapparna i aktivitetslistan.
+			Du kan sända eller ta emot Namecoins genom att trycka med fingret på knapparna i aktivitetslistan.
 =======
-			Du kan skicka eller ta emot GroestlCoin genom att trycka på knapparna i aktivitetslistan.
+			Du kan skicka eller ta emot Namecoin genom att trycka på knapparna i aktivitetslistan.
 >>>>>>> origin/master
 			Fler val är möjliga i menyn.
 		</p>
@@ -44,33 +44,33 @@
 <![CDATA[
 		<p>
 <<<<<<< HEAD
-			Med denna dialog kan du ta emot GroestlCoins från någon annan (som redan har GroestlCoin Wallet installerad på sin telefon).
+			Med denna dialog kan du ta emot Namecoins från någon annan (som redan har Namecoin Wallet installerad på sin telefon).
 		</p>
 		<p>
-			Först anger du hur många GroestlCoins du vill att de skickar.
+			Först anger du hur många Namecoins du vill att de skickar.
 		</p>
 		<p>
 			Sedan kan den andra personen scanna QR koden.
-			Eller så använder du "Dela" knappen i aktivitetslistan för att skicka din uppmaning att skicka GroestlCoins.
-			Den andra personen behöver sedan bara klicka på den GroestlCoin URL du skickat.
+			Eller så använder du "Dela" knappen i aktivitetslistan för att skicka din uppmaning att skicka Namecoins.
+			Den andra personen behöver sedan bara klicka på den Namecoin URL du skickat.
 		</p>
 		<p>
 			Sedan kommer den andra personen att få se en dialogruta där alla fält redan är ifyllda.
-			Om han eller hon sedan accapterar transaktionen så skickas GroestlCoins till dig.
+			Om han eller hon sedan accapterar transaktionen så skickas Namecoins till dig.
 =======
-			Med denna dialog kan du ta emot GroestlCoin från någon annan (som redan har GroestlCoin Wallet installerad på sin telefon).
+			Med denna dialog kan du ta emot Namecoin från någon annan (som redan har Namecoin Wallet installerad på sin telefon).
 		</p>
 		<p>
-			Först anger du hur många GroestlCoin du vill att de skickar.
+			Först anger du hur många Namecoin du vill att de skickar.
 		</p>
 		<p>
 			Sedan kan den andra personen scanna QR-koden.
-			Eller så använder du \"Dela\" knappen i aktivitetslistan för att skicka din uppmaning att skicka GroestlCoin.
-			Den andra personen behöver sedan bara klicka på den GroestlCoin-URL du skickat.
+			Eller så använder du \"Dela\" knappen i aktivitetslistan för att skicka din uppmaning att skicka Namecoin.
+			Den andra personen behöver sedan bara klicka på den Namecoin-URL du skickat.
 		</p>
 		<p>
 			Sedan kommer den andra personen att få se en dialogruta där alla fält redan är ifyllda.
-			Om han eller hon sedan accapterar transaktionen så skickas GroestlCoin till dig.
+			Om han eller hon sedan accapterar transaktionen så skickas Namecoin till dig.
 >>>>>>> origin/master
 		</p>
 	]]>
@@ -79,43 +79,43 @@
 <![CDATA[
 		<p>
 <<<<<<< HEAD
-			Du har påbörjat skickandet av GroestlCoins.
-			Du kom hit endera från huvudskärmen eller genom att klicka på en GroestlCoin URL i din webbläsare.
+			Du har påbörjat skickandet av Namecoins.
+			Du kom hit endera från huvudskärmen eller genom att klicka på en Namecoin URL i din webbläsare.
 =======
-			Du har påbörjat skickandet av GroestlCoin.
-			Du kom hit från huvudskärmen eller genom att klicka på en GroestlCoin-URL i din webbläsare.
+			Du har påbörjat skickandet av Namecoin.
+			Du kom hit från huvudskärmen eller genom att klicka på en Namecoin-URL i din webbläsare.
 >>>>>>> origin/master
 		</p>
 		<p>
-			Ange först vilken GroestlCoin adress du vill skicka till.
+			Ange först vilken Namecoin adress du vill skicka till.
 			Adressen kan automatiskt fyllas i om den börjar med någon av adresserna i din adressbok.
 <<<<<<< HEAD
-			Du kan också scanna en QR kod innehållande en GroestlCoin adress, genom att trycka på QR knappen i aktivitetslistan.
+			Du kan också scanna en QR kod innehållande en Namecoin adress, genom att trycka på QR knappen i aktivitetslistan.
 		</p>
 		<p>
-			Sedan kan du se hur många GroestlCoins du för tillfället kan skicka.
+			Sedan kan du se hur många Namecoins du för tillfället kan skicka.
 			Om det antalet skiljer sig från det som visas på huvudskärmen, så beror det på hittills obekräftade överföringar som du ännu inte får använda.
 		</p>
 		<p>
-			Slutligen anger du hur många GroestlCoins du vill skicka vill betalar.
+			Slutligen anger du hur många Namecoins du vill skicka vill betalar.
 		</p>
 		<p>
 			Du kan skapa en transaktion även om du inte är online.
-			Den kommer att skickas nästa gång GroestlCoin Wallet startas.
+			Den kommer att skickas nästa gång Namecoin Wallet startas.
 			Om du vill att en transaktion ska processas så fort som möjligt, se till att ha bra koppling till internet (exempelvis ett WLAN).
 =======
-			Du kan också scanna en QR-kod innehållande en GroestlCoin-adress, genom att trycka på QR knappen i aktivitetslistan.
+			Du kan också scanna en QR-kod innehållande en Namecoin-adress, genom att trycka på QR knappen i aktivitetslistan.
 		</p>
 		<p>
-			Sedan kan du se hur många GroestlCoin du för tillfället kan skicka.
+			Sedan kan du se hur många Namecoin du för tillfället kan skicka.
 			Om det antalet skiljer sig från det som visas på huvudskärmen, så beror det på hittills obekräftade överföringar som du ännu inte får använda.
 		</p>
 		<p>
-			Slutligen anger du hur många GroestlCoin du skicka.
+			Slutligen anger du hur många Namecoin du skicka.
 		</p>
 		<p>
 			Du kan skapa en transaktion även om du inte är online.
-			Den kommer att skickas nästa gång GroestlCoin Wallet startas.
+			Den kommer att skickas nästa gång Namecoin Wallet startas.
 			Om du vill att en transaktion ska hanteras så fort som möjligt, se till att ha bra uppkoppling till internet (exempelvis ett WLAN).
 >>>>>>> origin/master
 		</p>
@@ -130,35 +130,35 @@
 <![CDATA[
 		<p>
 <<<<<<< HEAD
-			<b>Några ord om säkerhet och GroestlCoins:</n>
+			<b>Några ord om säkerhet och Namecoins:</n>
 		</p>
 		<p>
-			Dina GroestlCoins i GroestlCoin Wallet sparas på din Android telefon.
-			<b>Om du tappar bort din telefon, så tappar du bort dina GroestlCoins.</b>
+			Dina Namecoins i Namecoin Wallet sparas på din Android telefon.
+			<b>Om du tappar bort din telefon, så tappar du bort dina Namecoins.</b>
 			Precis som pengar i din vanliga plånbok.
 		</p>
 		<p>
-			<b>Innan du avinstallerar GroestlCoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina GroestlCoins till en annan plånbok</b>.
-			Alla kvarvarande GroestlCoins kommer att försvinna.
+			<b>Innan du avinstallerar Namecoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina Namecoins till en annan plånbok</b>.
+			Alla kvarvarande Namecoins kommer att försvinna.
 		</p>
 		<p>
 			<b>Transaktioner kan inte stoppas</b>.
-			Efter att du skickat GroestlCoins finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
+			Efter att du skickat Namecoins finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
 =======
-			<b>Några ord om säkerhet och GroestlCoin:</n>
+			<b>Några ord om säkerhet och Namecoin:</n>
 		</p>
 		<p>
-			Dina GroestlCoin i GroestlCoin Wallet sparas på din Android telefon.
-			<b>Om du tappar bort din telefon, så tappar du bort dina GroestlCoin.</b>
+			Dina Namecoin i Namecoin Wallet sparas på din Android telefon.
+			<b>Om du tappar bort din telefon, så tappar du bort dina Namecoin.</b>
 			Precis som pengar i din vanliga plånbok.
 		</p>
 		<p>
-			<b>Innan du avinstallerar GroestlCoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina GroestlCoin till en annan wallet</b>.
-			Alla kvarvarande GroestlCoin kommer att försvinna.
+			<b>Innan du avinstallerar Namecoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina Namecoin till en annan wallet</b>.
+			Alla kvarvarande Namecoin kommer att försvinna.
 		</p>
 		<p>
 			<b>Transaktioner kan inte stoppas</b>.
-			Efter att du skickat GroestlCoin finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
+			Efter att du skickat Namecoin finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
 >>>>>>> origin/master
 		</p>
 		<p>
@@ -168,7 +168,7 @@
 		</p>
 		<p>
 			Utsätt dig inte för onödig risk!
-			<b>Använd bara GroestlCoin Wallet med mindre belopp</b> för daglig användning.
+			<b>Använd bara Namecoin Wallet med mindre belopp</b> för daglig användning.
 		</p>
 	]]>
 	</string>

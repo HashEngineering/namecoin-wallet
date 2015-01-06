@@ -11,7 +11,7 @@
 			android:title="@string/about_copyright_title" />
         <Preference
                 android:summary="Version 3.0 (v3.0.1.0-unk-MultiAlgo) and above"
-                android:title="GroestlCoin Compatibility" />
+                android:title="Namecoin Compatibility" />
 
 		<Preference
 			android:key="about_license"
@@ -38,7 +38,7 @@
 			android:title="@string/about_community_googleplus_title" />
 		<Preference
 			android:key="about_author_twitter"
-			android:summary="\@GroestlCoin_wallet"
+			android:summary="\@Namecoin_wallet"
 			android:title="@string/about_author_twitter_title" /-->
 		<!--Preference
 			android:key="about_author_googleplus"

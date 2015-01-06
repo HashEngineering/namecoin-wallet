@@ -3,15 +3,15 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			Ruudun vasemmassa ylänurkassa näkyy sinun valittu GroestlCoin-osoite, joka muiden täytyy tietää lähettääkseen sinulle GroestlCoineja.
+			Ruudun vasemmassa ylänurkassa näkyy sinun valittu Namecoin-osoite, joka muiden täytyy tietää lähettääkseen sinulle Namecoineja.
 			Napsauta vaihtaaksesi osoitetta.
 		</p>
 		<p>
 <<<<<<< HEAD
-			QR koodi oikealla sisältää GroestlCoin-osoitteesi, jonka toinen osapuoli voi skannata.
+			QR koodi oikealla sisältää Namecoin-osoitteesi, jonka toinen osapuoli voi skannata.
 			Napsauta QR koodia saadaksesi suuremman kuvan siitä.
 =======
-			QR-koodi oikealla sisältää GroestlCoin-osoitteesi, jonka toinen osapuoli voi skannata.
+			QR-koodi oikealla sisältää Namecoin-osoitteesi, jonka toinen osapuoli voi skannata.
 			Napsauta QR-koodia saadaksesi suuremman kuvan siitä.
 >>>>>>> origin/master
 		</p>
@@ -27,7 +27,7 @@
 			Vetäise oikealle tai vasemmalle asettaaksesi suodattimia listaan.
 		</p>
 		<p>
-			Voit lähettää tai pyytää GroestlCoineja napsauttamalla näppäimiä toimintapalkissa.
+			Voit lähettää tai pyytää Namecoineja napsauttamalla näppäimiä toimintapalkissa.
 			Lisää valintoja löydät asetukset -valikosta.
 		</p>
 	]]>
@@ -35,19 +35,19 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Käyttämällä tätä dialogia, voit pyytää GroestlCoineja toiselta henkilöltä, jolla pitäisi jo olla GroestlCoin Wallet asennettuna.
+			Käyttämällä tätä dialogia, voit pyytää Namecoineja toiselta henkilöltä, jolla pitäisi jo olla Namecoin Wallet asennettuna.
 		</p>
 		<p>
-			Ensiksi, voit syöttää jonkun määrän GroestlCoineja, joita pyydät.
+			Ensiksi, voit syöttää jonkun määrän Namecoineja, joita pyydät.
 		</p>
 		<p>
 			Sen jälkeen jonkun toisen on skannattava luotu QR koodi.
 			Tai voit lähettää pyynnön etäiselle henkilölle \'jaa\' näppäimellä toimintapalkissa.
-			Toisen henkilön täytyy napsauttaa GroestlCoin-URL-osoitetta.
+			Toisen henkilön täytyy napsauttaa Namecoin-URL-osoitetta.
 			
 		</p>
 		<p>
-			Joka tapauksessa toiselle henkilölle esitetään dialogi GroestlCoinien lähettämisestä, jossa kaikki kentät on jo täytetty.
+			Joka tapauksessa toiselle henkilölle esitetään dialogi Namecoinien lähettämisestä, jossa kaikki kentät on jo täytetty.
 			Jos hän hyväksyy sen, hänen täytyy vain lähettää maksu.
 		</p>
 	]]>
@@ -55,22 +55,22 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Olet käynnistänyt GroestlCoinien lähetysprosessin.
-			Päädyit tänne joko päänäkymän kautta tai napsauttamalla GroestlCoin-URL-osoitetta mobiiliselaimellasi.
+			Olet käynnistänyt Namecoinien lähetysprosessin.
+			Päädyit tänne joko päänäkymän kautta tai napsauttamalla Namecoin-URL-osoitetta mobiiliselaimellasi.
 		</p>
 		<p>
-			Ensiksi syötät GroestlCoin-osoitteen, jonne on maksettava.
+			Ensiksi syötät Namecoin-osoitteen, jonne on maksettava.
 			Osoite tulee automaattisesti loppuunkirjoitetuksi tallennetuista tiedoista osoitekirjasta.
 <<<<<<< HEAD
-			Voit myös skannata QR koodeja, joissa on GroestlCoin osoite tai GroestlCoin pyyntöjä napsauttamalla QR näppäintä toimintavalikossa.
+			Voit myös skannata QR koodeja, joissa on Namecoin osoite tai Namecoin pyyntöjä napsauttamalla QR näppäintä toimintavalikossa.
 		</p>
 		<p>
-			Seuraavaksi näet, kuinka paljon sinulla on GroestlCoineja käytettävissä tällä hetkellä.
+			Seuraavaksi näet, kuinka paljon sinulla on Namecoineja käytettävissä tällä hetkellä.
 =======
-			Voit myös skannata QR-koodeja, joissa on GroestlCoin osoite tai GroestlCoin pyyntöjä napsauttamalla QR-näppäintä toimintavalikossa.
+			Voit myös skannata QR-koodeja, joissa on Namecoin osoite tai Namecoin pyyntöjä napsauttamalla QR-näppäintä toimintavalikossa.
 		</p>
 		<p>
-			Seuraavaksi näet kuinka paljon sinulla on GroestlCoineja käytettävissä tällä hetkellä.
+			Seuraavaksi näet kuinka paljon sinulla on Namecoineja käytettävissä tällä hetkellä.
 >>>>>>> origin/master
 			Muutos päänäkymän saldoon ei ole vielä vahvistettu, eikä niitä rahoja voi vielä käyttää.
 		</p>
@@ -80,10 +80,10 @@
 		<p>
 <<<<<<< HEAD
 			Voit asettaa maksun olematta verkossa, eli ollessasi offline.
-			Se lähetetään käynnistäessäsi GroestlCoin Wallet:in uudestaan seuraavan kerran.
+			Se lähetetään käynnistäessäsi Namecoin Wallet:in uudestaan seuraavan kerran.
 =======
 			Voit asettaa maksun olematta verkossa, eli ollessasi offlinessa.
-			Se lähetetään käynnistäessäsi GroestlCoin Wallet:in uudestaan seuraavan kerran.
+			Se lähetetään käynnistäessäsi Namecoin Wallet:in uudestaan seuraavan kerran.
 >>>>>>> origin/master
 			Jos haluat maksun menevän mahdollisimman nopeasti, varmista, että sinulla on hyvä yhteys (kuten WLAN).
 		</p>
@@ -100,8 +100,8 @@
 			<b>Tärkeitä turvallisuus huomioita:</b>
 		</p>
 		<p>
-			GroestlCoinit sijaitsevat laitteessasi.
-			<b>Jos hukkaat sen, menetät GroestlCoinisi.</b>
+			Namecoinit sijaitsevat laitteessasi.
+			<b>Jos hukkaat sen, menetät Namecoinisi.</b>
 		</p>
 		<p>
 			Tämä tarkoittaa, että <b>sinun on varmuuskopioitava lompakkosi</b>!
@@ -109,12 +109,12 @@
 			Pidä varmuuskopiosi turvassa ja muista salasana.
 		</p>
 		<p>
-			<b>Ennen poistamista</b> (tai ennen sovellusdatan poistamista/laitteen tyhjentämistä), <b>siirrä GroestlCoinisi toiseen lompakkoon</b>.
-			Jäljelle jäävät GroestlCoinit katoavat.
+			<b>Ennen poistamista</b> (tai ennen sovellusdatan poistamista/laitteen tyhjentämistä), <b>siirrä Namecoinisi toiseen lompakkoon</b>.
+			Jäljelle jäävät Namecoinit katoavat.
 		</p>
 		<p>
 			<b>Maksuja ei voi peruuttaa</b>.
-			Jos lähetät GroestlCoinisi tyhjyyteen, ei ole käytännössä mitään keinoa saada niitä takaisin.
+			Jos lähetät Namecoinisi tyhjyyteen, ei ole käytännössä mitään keinoa saada niitä takaisin.
 		</p>
 		<p>
 			<b>Pidä mobiililaitteesi turvassa!</b>

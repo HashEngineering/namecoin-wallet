@@ -35,7 +35,7 @@
 	<string name="wallet_options_safety_menu">安全</string>
 	<string name="wallet_options_safety">安全及风险提示</string>
 	<string name="wallet_options_donate">捐赠</string>
-	<string name="wallet_donate_address_label">捐款予GroestlCoin錢包</string>
+	<string name="wallet_donate_address_label">捐款予Namecoin錢包</string>
 	<string name="wallet_low_storage_dialog_title">内部存储空间不足！！</string>
 	<string name="wallet_low_storage_dialog_msg">比特币钱包使用内部存储记忆的交易和块块。如果它运行的空间不够，它就会停止工作，你的比特币将处于危险之中！\n\n你要打开的应用程序管理器卸载不需要的应用程序？</string>
 	<string name="wallet_low_storage_dialog_button_apps">管理应用程序</string>
