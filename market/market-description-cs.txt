@@ -1,25 +1,25 @@
-<b>Mějte své GroestlCoiny vždy s sebou ve své kapse!</b> Plaťte rychým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. GroestlCoin Wallet je mobilní GroestlCoin aplikace číslo jedna a jedna z nejbezpečnějších!
+<b>Mějte své Namecoiny vždy s sebou ve své kapse!</b> Plaťte rychým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. Namecoin Wallet je mobilní Namecoin aplikace číslo jedna a jedna z nejbezpečnějších!
 
 <b>FUNKCE</b>
 
 • Žádná registrace, žádná webová služba ani cloud není potřeba! Tato peněženka je de-centralizovaná a peer to peer.
-• Zobrazení GroestlCoin částek v GRS, mGRS a µGRS.
+• Zobrazení Namecoin částek v NMC, mNMC a µNMC.
 • Přepočet z a do národních měn.
-• Odesílání a přijímání plateb přes NFC, QR kódy nebo GroestlCoin URL.
-• Adresář pro často používané GroestlCoin adresy.
+• Odesílání a přijímání plateb přes NFC, QR kódy nebo Namecoin URL.
+• Adresář pro často používané Namecoin adresy.
 • Pokud jste offline, stále můžete platit přes Bluetooth.
 • Systémové notifikace při přijaté platbě
 • Načítání papírových peněženek (např. ty co se používají u cold storage).
-• Widget pro zborazení GroestlCoin bilance.
+• Widget pro zborazení Namecoin bilance.
 
 
 <b>PŘISPĚJTE</b>
 
-GroestlCoin Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
+Namecoin Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Náš zdrojový kód je k dispozici na GitHubu:
-https://github.com/HashEngineering/groestlcoin-wallet
+https://github.com/HashEngineering/namecoin-wallet
 
 Veškeré překlady jsou tvořeny pomocí Transflex.
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -27,7 +27,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>UZNÁNÍ</b>
 
-• Doporučená mobilní peněženka stránkou http://www.groestlcoin.org
+• Doporučená mobilní peněženka stránkou http://namecoin.org
 
 
 <i>Použití na vlastní riziko!</i>

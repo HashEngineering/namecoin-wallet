@@ -1,20 +1,20 @@
-Dengan aplikasi ini Anda selalu mempunyai GroestlCoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). GroestlCoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai Namecoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Namecoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
-• Tampilkan saldo dompet dalam GroestlCoin dan mata uang lainnya.
-• Mengirim dan menerima GroestlCoin via NFC, kode-QR atau Tautan GroestlCoin.
-• Buku alamat untuk alamat penggunaan GroestlCoin secara reguler.
+• Tampilkan saldo dompet dalam Namecoin dan mata uang lainnya.
+• Mengirim dan menerima Namecoin via NFC, kode-QR atau Tautan Namecoin.
+• Buku alamat untuk alamat penggunaan Namecoin secara reguler.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
-• Notifikasi sistem untuk konektivitas GroestlCoin dan menerima koin.
-• Widget Apl untuk saldo GroestlCoin.
+• Notifikasi sistem untuk konektivitas Namecoin dan menerima koin.
+• Widget Apl untuk saldo Namecoin.
 
-Anda dapat mengetahui lebih mengenai GroestlCoin di
-http://www.groestlcoin.org
+Anda dapat mengetahui lebih mengenai Namecoin di
+http://namecoin.org
 
-Jika Anda ingin berkontribusi kepada GroestlCoin Wallet, proyeknya berada di
-https://github.com/HashEngineering/groestlcoin-wallet
+Jika Anda ingin berkontribusi kepada Namecoin Wallet, proyeknya berada di
+https://github.com/HashEngineering/namecoin-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!

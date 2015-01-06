@@ -1,25 +1,25 @@
-<b>Pidä GroestlCoinisi aina mukana taskussasi!</b> Voit maksaa nopeasti skannaamalla QR-koodin. Kauppiaana saat maksut turvallisesti ja välittömästi. GroestlCoin Wallet on ensimmäinen GroestlCoin-mobiilisovellus ja luultavimmin myös kaikista turvallisin!
+<b>Pidä Namecoinisi aina mukana taskussasi!</b> Voit maksaa nopeasti skannaamalla QR-koodin. Kauppiaana saat maksut turvallisesti ja välittömästi. Namecoin Wallet on ensimmäinen Namecoin-mobiilisovellus ja luultavimmin myös kaikista turvallisin!
 
 <b>OMINAISUUDET</b>
 
 • Ei vaadi rekisteröintiä, verkkopalveluja tai pilvitallennusta! Tämä lompakko on hajautettu ja suorayhteyksinen.
-• Mahdollisuus näyttää GroestlCoin-varat määrissä GRS, mGRS ja µGRS.
+• Mahdollisuus näyttää Namecoin-varat määrissä NMC, mNMC ja µNMC.
 • Yksikkömuunnos valtioiden valuuttojen välillä.
-• GroestlCoinien lähettäminen ja vastaanottaminen NFC, QR-koodien tai GroestlCoin-URL-osotteiden avulla.
-• Osoitekirja säännöllisesti käytettyjä GroestlCoin-osoitteita varten.
+• Namecoinien lähettäminen ja vastaanottaminen NFC, QR-koodien tai Namecoin-URL-osotteiden avulla.
+• Osoitekirja säännöllisesti käytettyjä Namecoin-osoitteita varten.
 • Kun et ole verkkoyhteyden ulottuvilla, voit silti maksaa Bluetoothin välityksellä.
-• Järjestelmän ilmoitus vastaanotetuille GroestlCoineille.
+• Järjestelmän ilmoitus vastaanotetuille Namecoineille.
 • Paperisen lompakon pyyhkäisymahdollisuus (esim. näitä käytetään "kylmissä varastoissa").
-• Android-sovellus GroestlCoin-varojen hallintaan.
+• Android-sovellus Namecoin-varojen hallintaan.
 
 
 <b>OSALLISTU</b>
 
-GroestlCoin Wallet on <b>avointa lähdekoodia</b> ja <b>vapaa ohjelmisto</b>. Lisenssi: GPLv3
+Namecoin Wallet on <b>avointa lähdekoodia</b> ja <b>vapaa ohjelmisto</b>. Lisenssi: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Lähdekoodi saatavilla GitHub:sta:
-https://github.com/HashEngineering/groestlcoin-wallet
+https://github.com/HashEngineering/namecoin-wallet
 
 Kaikki käännökset on hallinnoitu Transifex:n kautta:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -27,7 +27,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>SUOSITTELUMME</b>
 
-• http://www.groestlcoin.org: suosittelema mobiililompakko
+• http://namecoin.org: suosittelema mobiililompakko
 
 
 <i>Käytä omalla vastuulla!</i>

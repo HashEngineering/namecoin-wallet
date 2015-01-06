@@ -1,31 +1,31 @@
-Have your GroestlCoins always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. GroestlCoin Wallet is the first mobile GroestlCoin app, and arguably also the most secure!
+Have your Namecoins always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. Namecoin Wallet is the first mobile Namecoin app, and arguably also the most secure!
 
 <b>FEATURES</b>
 
 • No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
-• Display of GroestlCoin amount in GRS, mGRS and µGRS.
+• Display of Namecoin amount in NMC, mNMC and µNMC.
 • Conversion to and from national currencies.
-• Sending and receiving of GroestlCoin via NFC, QR-codes or GroestlCoin URLs.
-• Address book for regularly used GroestlCoin addresses.
+• Sending and receiving of Namecoin via NFC, QR-codes or Namecoin URLs.
+• Address book for regularly used Namecoin addresses.
 • When you're offline, you can still pay via Bluetooth.
 • System notification for received coins.
 • Sweeping of paper wallets (e.g. those used for cold storage).
-• App widget for GroestlCoin balance.
+• App widget for Namecoin balance.
 
 <b>CONTRIBUTE</b>
 
-GroestlCoin Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
+Namecoin Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Our source code is available at GitHub:
-https://github.com/HashEngineering/groestlcoin-wallet
+https://github.com/HashEngineering/namecoin-wallet
 
 All translations are managed via Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>TESTIMONIALS</b>
 
-• Recommended mobile wallet by http://www.groestlcoin.org/
+• Recommended mobile wallet by http://namecoin.org/
 
 
 

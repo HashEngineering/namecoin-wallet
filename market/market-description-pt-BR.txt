@@ -1,21 +1,21 @@
-Tenha os seus GroestlCoins sempre com você, no seu bolso! Efetue pagamentos rapidamente apenas escaneando um código QR​​. Como comerciante, você pode receber pagamentos de forma confiável e instantaneamente. O GroestlCoin Wallet é o primeiro aplicativo GroestlCoin móvel, e, possivelmente, o mais seguro!
+Tenha os seus Namecoins sempre com você, no seu bolso! Efetue pagamentos rapidamente apenas escaneando um código QR​​. Como comerciante, você pode receber pagamentos de forma confiável e instantaneamente. O Namecoin Wallet é o primeiro aplicativo Namecoin móvel, e, possivelmente, o mais seguro!
 
 CARACTERÍSTICAS:
 
 • Sem necessidade de cadastro, serviço web ou hospedagem! Esta carteira é descentralizada e "peer to peer".
-• Exibe a quantidade de GroestlCoins em GRS e mGRS.
+• Exibe a quantidade de Namecoins em NMC e mNMC.
 • Conversão para moedas nacionais.
-• Envio e recebimento de GroestlCoins via NFC, códigos QR ou endereços GroestlCoin.
+• Envio e recebimento de Namecoins via NFC, códigos QR ou endereços Namecoin.
 • Catálogo para guardar os endereços mais utilizados.
 • Quando você estiver off-line, você ainda pode pagar via Bluetooth.
 • Notificações do sistema para moedas recebidas.
-• Widget para saldo de GroestlCoins.
+• Widget para saldo de Namecoins.
 
-Mais informações sobre GroestlCoin em
-http://www.groestlcoin.org
+Mais informações sobre Namecoin em
+http://namecoin.org
 
-Se você deseja contribuir com o GroestlCoin Wallet, o projeto encontra-se em
-https://github.com/HashEngineering/groestlcoin-wallet
+Se você deseja contribuir com o Namecoin Wallet, o projeto encontra-se em
+https://github.com/HashEngineering/namecoin-wallet
 
 Licença: GPLv3
 Use por sua conta e risco!

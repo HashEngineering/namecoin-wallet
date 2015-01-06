@@ -1,13 +1,13 @@
-<b>Ha alltid dina bitcoin med dig i fickan!</b> Du gör betalningar genom att snabbt scanna en QR-kod. Handlare får betalningar tillförlitligt och omedelbart. GroestlCoin Wallet är den första mobila bitcoin-appen, och utan tvekan den mest säkra!
+<b>Ha alltid dina bitcoin med dig i fickan!</b> Du gör betalningar genom att snabbt scanna en QR-kod. Handlare får betalningar tillförlitligt och omedelbart. Namecoin Wallet är den första mobila bitcoin-appen, och utan tvekan den mest säkra!
 
 
 <b>FUNKTIONER</b>
 
-• Ingen registrering, web- eller molntjänst behövs! GroestlCoin Wallet är decentraliserad och peer-to-peer.
-• Visa summa bitcoin i GRS, mGRS eller µGRS.
+• Ingen registrering, web- eller molntjänst behövs! Namecoin Wallet är decentraliserad och peer-to-peer.
+• Visa summa bitcoin i NMC, mNMC eller µNMC.
 • Konventering till och från nationell valuta.
-• Skicka och ta emot bitcoin via NFC, QR-koder eller en GroestlCoin-URL.
-• Adressbok för de GroestlCoinadresser man använder ofta.
+• Skicka och ta emot bitcoin via NFC, QR-koder eller en Namecoin-URL.
+• Adressbok för de Namecoinadresser man använder ofta.
 • När du är nedkopplad kan du fortfarande betala via Bluetooth.
 • Meddelande om mottagna bitcoin.
 • Inläsning av papperswallet (tex. sådan som används för permanent lagring).
@@ -16,11 +16,11 @@
 
 <b>BIDRA</b>
 
-GroestlCoin Wallet är <b>öppen mjukvara</b> och <b>fri mjukvara</b>. Licens: GPLv3
+Namecoin Wallet är <b>öppen mjukvara</b> och <b>fri mjukvara</b>. Licens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vår källkod finns tillgänglig på GitHub:
-https://github.com/HashEngineering/groestlcoin-wallet
+https://github.com/HashEngineering/namecoin-wallet
 
 All översättning hanteras via Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>REKOMMENDATIONER</b>
 
-• Rekommenderad mobil wallet av http://www.groestlcoin.org
+• Rekommenderad mobil wallet av http://namecoin.org
 
 
 <i>Används på egen risk!</i>

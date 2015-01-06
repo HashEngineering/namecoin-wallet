@@ -1,21 +1,21 @@
-Tartsd a zsebedben GroestlCoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A GroestlCoin Tárca az első GroestlCoin app és kétségkívül a legbiztonságosabb is!
+Tartsd a zsebedben Namecoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Namecoin Tárca az első Namecoin app és kétségkívül a legbiztonságosabb is!
 
 ELŐNYÖK:
 
 • Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
-• A GroestlCoinjaid mennyiségét GRS és mGRS formában is láthatod.
+• A Namecoinjaid mennyiségét NMC és mNMC formában is láthatod.
 • Átváltás a saját valutádra, oda-vissza.
-• GroestlCoin küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
-• Címtár a rendszeresen használt GroestlCoin címek számára.
+• Namecoin küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
+• Címtár a rendszeresen használt Namecoin címek számára.
 • Offline állapotban is fizethetsz - Bluetooth segítségével.
-• Rendszerüzenet GroestlCoin érkezésekor.
-• Widget a GroestlCoin egyenlegről.
+• Rendszerüzenet Namecoin érkezésekor.
+• Widget a Namecoin egyenlegről.
 
-Bővebben a GroestlCoin-ról:
-http://www.groestlcoin.org
+Bővebben a Namecoin-ról:
+http://namecoin.org
 
-Ha hozzájárulnál a GroestlCoin Wallet projekthez:
-https://github.com/HashEngineering/groestlcoin-wallet
+Ha hozzájárulnál a Namecoin Wallet projekthez:
+https://github.com/HashEngineering/namecoin-wallet
 
 
 

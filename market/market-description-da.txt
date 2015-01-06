@@ -1,26 +1,26 @@
-<b>Hav altid dine GroestlCoins med dig i din lomme!</b> Du betaler ved hurtigt at scanne en QR-kode. Som handlende kan du modtage betalinger pålideligt og øjeblikkeligt. GroestlCoin Wallet er den første mobile GroestlCoin-app, og muligvis også den mest sikre!
+<b>Hav altid dine Namecoins med dig i din lomme!</b> Du betaler ved hurtigt at scanne en QR-kode. Som handlende kan du modtage betalinger pålideligt og øjeblikkeligt. Namecoin Wallet er den første mobile Namecoin-app, og muligvis også den mest sikre!
 
 
 <b>FUNKTIONER</b>
 
 • Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
-• Visning af GroestlCoin-beløb i GRS, mGRS og µGRS.
+• Visning af Namecoin-beløb i NMC, mNMC og µNMC.
 • Konvertering til og fra lokale valutaer.
-• Afsendelse og modtagelse af GroestlCoin via NFC, QR-koder eller GroestlCoin-URLer.
-• Adressebog til ofte brugte GroestlCoin-adresser.
+• Afsendelse og modtagelse af Namecoin via NFC, QR-koder eller Namecoin-URLer.
+• Adressebog til ofte brugte Namecoin-adresser.
 • Når du er offline, kan du stadig betale via Bluetooth.
 • Systemnotifikation for modtagne mønter.
 • Rydning af papirtegnebøger (fx de der bruges til kold opbevaring).
-• App-widget for GroestlCoin-saldo.
+• App-widget for Namecoin-saldo.
 
 
 <b>BIDRAG</b>
 
-GroestlCoin Wallet er <b>fri software</b> med <b>åben kildekode</b>. Licens: GPLv3
+Namecoin Wallet er <b>fri software</b> med <b>åben kildekode</b>. Licens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vores kildekode er tilgængelig på GitHub:
-https://github.com/HashEngineering/groestlcoin-wallet
+https://github.com/HashEngineering/namecoin-wallet
 
 Alle oversættelser håndteres via Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>ANBEFALINGER</b>
 
-• Anbefalet mobil-tegnebog af http://www.groestlcoin.org
+• Anbefalet mobil-tegnebog af http://namecoin.org
 
 
 <i>Brug for egen risiko!</i>

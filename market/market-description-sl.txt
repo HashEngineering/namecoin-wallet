@@ -1,21 +1,21 @@
-Nosite svoje novce vedno s seboj v žepu. Plačila so hitra, le prečitate QR-kodo. Tudi prejemanje plačil je zanesljivo in takojšnje. GroestlCoin Wallet je prva mobilna aplikacija za GroestlCoin in najbrž tudi najbolj varna!
+Nosite svoje novce vedno s seboj v žepu. Plačila so hitra, le prečitate QR-kodo. Tudi prejemanje plačil je zanesljivo in takojšnje. Namecoin Wallet je prva mobilna aplikacija za Namecoin in najbrž tudi najbolj varna!
 
 LASTNOSTI:
 
 • Potrebna ni nobena registracija, spletna storitev ali oblak! Ta denarnica deluje povsem decentralizirano in vrstniško.
-• Prikaz zneskov v GRS, mGRS ali µGRS.
+• Prikaz zneskov v NMC, mNMC ali µNMC.
 • Samodejna pretvorba v evre in druge lokalne valute.
-• Pošiljanje in prejemanje GroestlCoinov prek NFC, QR-kod ali GroestlCoin URL-jev.
-• Zasebni imenik GroestlCoin naslovov.
-• Z GroestlCoinom lahko plačujete tudi, če nimate povezave.
+• Pošiljanje in prejemanje Namecoinov prek NFC, QR-kod ali Namecoin URL-jev.
+• Zasebni imenik Namecoin naslovov.
+• Z Namecoinom lahko plačujete tudi, če nimate povezave.
 • Sistemska obvestila ob prejetih novcih.
 • Widget, ki prikazuje stanje v denarnici.
 
-Več o GroestlCoinu lahko zveste na
-https://GroestlCoin.org/sl/
+Več o Namecoinu lahko zveste na
+https://Namecoin.org/sl/
 
-Če želite prispevati k aplikaciji GroestlCoin Wallet, se nam pridružite na
-https://github.com/schildbach/GroestlCoin-wallet
+Če želite prispevati k aplikaciji Namecoin Wallet, se nam pridružite na
+https://github.com/schildbach/Namecoin-wallet
 
 Licenca: GPLv3
 Uporaba na lastno odgovornost!

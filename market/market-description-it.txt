@@ -1,26 +1,26 @@
-<b>Porta i tuoi GroestlCoin sempre con te, in tasca!</b>  Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. GroestlCoin Wallet è la prima GroestlCoin app mobile, e probabilmente anche la più sicura!
+<b>Porta i tuoi Namecoin sempre con te, in tasca!</b>  Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Namecoin Wallet è la prima Namecoin app mobile, e probabilmente anche la più sicura!
 
 
 <b>CARATTERISTICHE</b>
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di GroestlCoin in GRS, mGRS e µGRS.
+• Mostra l'ammontare di Namecoin in NMC, mNMC e µNMC.
 • Conversione verso e dalle monete nazionali.
-• Invio e ricevimento di GroestlCoin tramite NFC, codici QR o URL GroestlCoin.
-• Rubrica degli indirizzi per usare indirizzi GroestlCoin regolarmente.
+• Invio e ricevimento di Namecoin tramite NFC, codici QR o URL Namecoin.
+• Rubrica degli indirizzi per usare indirizzi Namecoin regolarmente.
 • Quando sei offline, puoi comunque ancora pagare via Bluetooth.
 • Sistema di notifica per le monete ricevute.
 • Svuotamento di portafogli cartacei (es: quelli utilizzati come depositi offline)
-• App Widget per il saldo GroestlCoin
+• App Widget per il saldo Namecoin
 
 
 <b>CONTRIBUISCI</b>
 
-GroestlCoin Wallet è <b>open source</b> e <b>software libero</b>. Licenza: GPLv3
+Namecoin Wallet è <b>open source</b> e <b>software libero</b>. Licenza: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Il nostro codice sorgente è disponibile su GitHub
-https://github.com/HashEngineering/groestlcoin-wallet
+https://github.com/HashEngineering/namecoin-wallet
 
 Tutte le traduzioni sono gestite attraverso Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>TESTIMONIANZE</b>
 
-• Portafoglio mobile raccomandato da http://www.groestlcoin.org
+• Portafoglio mobile raccomandato da http://namecoin.org
 
 
 <i>Usala a tuo rischio!</i>

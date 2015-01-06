@@ -1,13 +1,13 @@
-<b>Ten tus bitcoins siempre contigo, ¡en tu bolsillo!</b> Puedes pagar leyendo rápidamente el código QR. Como comerciante, puedes recibir pagos de forma fiable e instantánea. GroestlCoin Wallet es la primera aplicación móvil GroestlCoin. ¡Y posiblemente también la más segura!
+<b>Ten tus bitcoins siempre contigo, ¡en tu bolsillo!</b> Puedes pagar leyendo rápidamente el código QR. Como comerciante, puedes recibir pagos de forma fiable e instantánea. Namecoin Wallet es la primera aplicación móvil Namecoin. ¡Y posiblemente también la más segura!
 
 
 <b>CARACTERÍSTICAS</b>
 
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente descentralizado y entre pares (peer-to-peer).
-• Muestra la cantidad de bitcoins en GRS, mGRS, y µGRS.
+• Muestra la cantidad de bitcoins en NMC, mNMC, y µNMC.
 • Conversión hacia y desde divisas nacionales.
-• Envío y recepción de bitcoins mediante NFC, códigos QR o identificadores URL GroestlCoin.
-• Libreta de direcciones para guardar las direcciones GroestlCoin más utilizadas.
+• Envío y recepción de bitcoins mediante NFC, códigos QR o identificadores URL Namecoin.
+• Libreta de direcciones para guardar las direcciones Namecoin más utilizadas.
 • Cuando no tengas conexión, puedes seguir pagando via Bluetooth.
 • Notificación de sistema al recibir bitcoins.
 • Barrido de monederos de papel (por ejemplo, los que se utilizan para custodia en frio).
@@ -16,11 +16,11 @@
 
 <b>CONTRIBUIR</b>
 
-GroestlCoin Wallet es <b>código abierto</b> y <b>software libre</b>. Licencia: GPLv3
+Namecoin Wallet es <b>código abierto</b> y <b>software libre</b>. Licencia: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Nuestro código fuente está disponible en GitHub:
-https://github.com/HashEngineering/groestlcoin-wallet
+https://github.com/HashEngineering/namecoin-wallet
 
 Todas las traducciones son administradas a través de Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>TESTIMONIOS</b>
 
-• Monedero móvil recomendado por http://www.groestlcoin.org
+• Monedero móvil recomendado por http://namecoin.org
 
 
 <i>¡Úsalo bajo tu propio riesgo!</i>

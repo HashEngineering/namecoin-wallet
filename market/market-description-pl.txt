@@ -1,21 +1,21 @@
-Miej swoje GroestlCoiny zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. GroestlCoin Wallet jest pierwszą aplikacją GroestlCoinową na telefony i niezaprzeczalnie najbezpieczniejszą.
+Miej swoje Namecoiny zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. Namecoin Wallet jest pierwszą aplikacją Namecoinową na telefony i niezaprzeczalnie najbezpieczniejszą.
 
 WŁAŚCIWOŚCI:
 
 • Brak konieczności rejestracji, serwisu online lub chmury! Ten portfel używa zdecentralizowanej sieci peer-to-peer.
-• Wyświetl ilość kwotę w GRS i mGRS.
+• Wyświetl ilość kwotę w NMC i mNMC.
 • Zamiana z i na waluty narodowe
-• Wysyłąnie i odbieranie GroestlCoin za pomocą NFC, kodów QR czy adresów GroestlCoin URL.
-• Książka adresowa dla regularnie używanych adresów GroestlCoin.
+• Wysyłąnie i odbieranie Namecoin za pomocą NFC, kodów QR czy adresów Namecoin URL.
+• Książka adresowa dla regularnie używanych adresów Namecoin.
 • Gdy jesteś offline, wciąż możesz zapłacić przy użyciu Bluetooth.
 • System powiadomień dla przychodzących transakcji.
 • Widget aplikacji dla stanu konta.
 
-Dowiedz się więcej o GroestlCoin
-http://www.groestlcoin.org
+Dowiedz się więcej o Namecoin
+http://namecoin.org
 
-Jeśli chcesz przyczynić się do rozwoju GroestlCoin Wallet to projekt znajduje się pod adresem
-https://github.com/HashEngineering/groestlcoin-wallet
+Jeśli chcesz przyczynić się do rozwoju Namecoin Wallet to projekt znajduje się pod adresem
+https://github.com/HashEngineering/namecoin-wallet
 
 Licencja: GPLv3
 Używasz na własne ryzyko!
