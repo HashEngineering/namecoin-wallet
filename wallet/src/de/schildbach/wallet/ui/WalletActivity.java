@@ -102,7 +102,7 @@ import de.schildbach.wallet.util.WalletUtils;
 
 //import com.google.bitcoin.core.CoinDefinition;
 import de.schildbach.wallet.util.WholeStringBuilder;
-import hashengineering.groestlcoin.wallet.R;
+import hashengineering.namecoin.wallet.R;
 
 
 /**

@@ -21,7 +21,7 @@ import android.app.ActionBar;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import hashengineering.groestlcoin.wallet.R;
+import hashengineering.namecoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

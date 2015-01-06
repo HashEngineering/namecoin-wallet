@@ -20,7 +20,7 @@ package de.schildbach.wallet;
 import android.os.Build;
 import android.os.Environment;
 import android.text.format.DateUtils;
-import hashengineering.groestlcoin.wallet.R;
+import hashengineering.namecoin.wallet.R;
 import org.bitcoinj.core.CoinDefinition;
 import org.bitcoinj.core.NetworkParameters;
 import org.bitcoinj.params.MainNetParams;
@@ -151,8 +151,8 @@ public final class Constants
     public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj 0.12\n";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://www.groestlcoin.org/";
-    public static final String CREDITS_FORUM_URL = "http://www.groestlcoin.org/forum/";
+    public static final String CREDITS_WEBSITE_URL = "http://namecoin.org/";
+    public static final String CREDITS_FORUM_URL = "http://namecoin.org/forum/";
 
 	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=2062";
 
@@ -164,7 +164,7 @@ public final class Constants
 
 	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"Hash Engineering Solutions\"";
 //=======
-	public static final MonetaryFormat LOCAL_FORMAT = new MonetaryFormat().noCode().minDecimals(6).optionalDecimals();
+	public static final MonetaryFormat LOCAL_FORMAT = new MonetaryFormat().noCode().minDecimals(3).optionalDecimals();
 
     public static final String SOURCE_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
     public static final String BINARY_URL = "https://github.com/HashEngineering/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";

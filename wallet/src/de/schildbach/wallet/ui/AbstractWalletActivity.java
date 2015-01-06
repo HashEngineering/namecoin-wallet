@@ -23,7 +23,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.groestlcoin.wallet.R;
+import hashengineering.namecoin.wallet.R;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

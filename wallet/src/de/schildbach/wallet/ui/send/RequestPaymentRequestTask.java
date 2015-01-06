@@ -44,7 +44,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.data.PaymentIntent;
 import de.schildbach.wallet.ui.InputParser;
 import de.schildbach.wallet.util.Bluetooth;
-import hashengineering.groestlcoin.wallet.R;
+import hashengineering.namecoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

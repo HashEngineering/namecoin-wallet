@@ -508,13 +508,13 @@ public class ExchangeRatesProvider extends ContentProvider
 
             Double btcRate = 0.0;
             boolean cryptsyValue = true;
-            Object result = getCoinValueBTC_poloniex();
+            Object result = getCoinValueBTC();
 
             if(result == null)
             {
-               // result = getCoinValueBTC_BTER();
-                //cryptsyValue = false;
-                //if(result == null)
+               result = getCoinValueBTC_BTER();
+               cryptsyValue = false;
+               if(result == null)
                     return null;
             }
 

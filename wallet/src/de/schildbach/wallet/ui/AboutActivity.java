@@ -26,7 +26,7 @@ import android.preference.PreferenceScreen;
 import android.view.MenuItem;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.groestlcoin.wallet.R;
+import hashengineering.namecoin.wallet.R;
 
 
 /**

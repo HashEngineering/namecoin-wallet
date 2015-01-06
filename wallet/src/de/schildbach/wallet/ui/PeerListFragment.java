@@ -56,7 +56,7 @@ import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.service.BlockchainServiceImpl;
 
 import de.schildbach.wallet.util.WholeStringBuilder;
-import hashengineering.groestlcoin.wallet.R;
+import hashengineering.namecoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

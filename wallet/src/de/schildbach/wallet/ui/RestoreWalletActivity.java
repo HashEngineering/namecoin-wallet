@@ -50,7 +50,7 @@ import de.schildbach.wallet.util.Crypto;
 
 import de.schildbach.wallet.util.Io;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.groestlcoin.wallet.R;
+import hashengineering.namecoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
