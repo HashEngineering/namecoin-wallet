@@ -243,7 +243,7 @@
 	<string name="about_copyright_title">Copyright</string>
 	<string name="about_license_title">License</string>
 	<string name="about_source_title">Source code</string>
-	<string name="about_credits_bitcoinj_title">This app is using groestlcoinj %s</string>
+	<string name="about_credits_bitcoinj_title">This app is using namecoinj %s</string>
 	<string name="about_credits_zxing_title">This app is using \'zxing\'</string>
 	<string name="about_credits_icon_title">This app is using an icon by \'bitboy\'</string>
 	<string name="about_community_googleplus_title">Google+ community</string>

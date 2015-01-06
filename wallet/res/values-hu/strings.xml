@@ -160,7 +160,7 @@
 	<string name="report_issue_dialog_mail_intent_chooser">Hiba küldése ezzel…</string>
 	<string name="about_title">Rólunk</string>
 	<string name="about_license_title">Licensz</string>
-	<string name="about_credits_bitcoinj_title">Az applikáció groestlcoinj %s-t használ</string>
+	<string name="about_credits_bitcoinj_title">Az applikáció namecoinj %s-t használ</string>
 	<string name="about_credits_zxing_title">Ez az app \'zxing\'-et használ</string>
 	<string name="about_credits_icon_title">Az app \'bitboy\' ikonját használja</string>
 	<string name="about_community_googleplus_title">Google+ közösség</string>

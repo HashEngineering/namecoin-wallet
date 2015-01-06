@@ -269,7 +269,7 @@ public final class BitcoinIntegration
 
 	private static void redirectToDownload(final Context context)
 	{
-		Toast.makeText(context, "No GroestlCoin application found.\nPlease install GroestlCoin Wallet.", Toast.LENGTH_LONG).show();
+		Toast.makeText(context, "No Namecoin application found.\nPlease install Namecoin Wallet.", Toast.LENGTH_LONG).show();
 
 		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=hashengineering.groestlcoin.wallet"));
 		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/HashEngineering/groestlcoin-wallet/releases"));
