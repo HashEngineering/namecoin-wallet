@@ -3,19 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-<<<<<<< HEAD
-			Horní levá část obrazovky zobrazuje Vaši aktuální Namecoin adresu, kterou druhá strana potřebuje znát, aby Vám mohla zaslat platbu.
-			Kliknutím na adresu ji změníte.
-		</p>
-		<p>
-			QR kód na pravé straně obsahuje Vaši Namecoin adresu a může být použit pro naskenování druhou stranou.
-=======
 			Horní levá část obrazovky zobrazuje Vaši aktuální Namecoin bilanci včetně odpovídající částky ve vaší lokální měně.
 			Kliknutím na částku přejdete do seznamu lokálních měn, kde si můžete vybrat jinou.
 		</p>
 		<p>
 			QR kód na pravé straně obsahuje Vaši Namecoin adresu a může být použita pro naskenování druhou stranou.
->>>>>>> origin/master
 			Klepněte na QR kód pro zobrazení větší verze.
 		</p>
 		<p>

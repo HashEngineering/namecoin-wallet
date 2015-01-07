@@ -3,14 +3,8 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-<<<<<<< HEAD
-			Den øverste venstre del af skærmen viser din valgte Namecoin-adresse, som andre har brug for at vide for at sende
-			dig Namecoins.
-			Berør for at ændre adresse.
-=======
 			Den øverste venstre del af skærmen viser din saldo i Namecoin og én valgt national valuta.
 			Berør for at gå til listen over nationale valutaer og berør en af disse valutaer for at sætte den som standard.
->>>>>>> origin/master
 		</p>
 		<p>
 			QR-koden til højre indeholder din Namecoin-adresse og kan scannes af en anden person.

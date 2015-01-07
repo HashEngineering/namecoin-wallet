@@ -3,26 +3,12 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-<<<<<<< HEAD
-			La partie supérieure gauche de l\'écran affiche votre adresse Namecoin choisie et que d\'autres personnes doivent connaître pour vous envoyer des Namecoins.
-			Toquer pour changer cette adresse.
-		</p>
-		<p>
-			Le code QR à droite contient votre adresse Namecoin et peut être numérisée par un tiers.
-			Toquer le code QR pour l\'agrandir.
-		</p>
-		<p>
-			Au milieu de l\'écran, votre solde est affiché.
-			La valeur de votre portefeuille est aussi affichée dans une devise locale choisie.
-			Toquer sur le solde pour afficher la liste de toutes les devises locales et toquer sur l\'une d\'entre elles pour la choisir par défaut.
-=======
 			La partie supérieure gauche de l\'écran affiche votre solde en Namecoins ainsi qu\'une devise locale sélectionnée.
 			Tapez sur le solde pour afficher la liste de toutes les devises locales et tapez sur l\'une d\'entre elles pour en faire la devise locale par défaut.
 		</p>
 		 <p>
 			Le QR code à droite contient votre adresse Namecoin et peut être utilisée pour être scannée par un tiers.
 			Tapez sur le code QR pour l\'agrandir.
->>>>>>> origin/master
 		</p>
 		<p>
 			Le bas de l\'écran est couvert par votre liste de transactions, qui est vide initialement.
@@ -31,13 +17,8 @@
 			Balayer vers la gauche ou vers la droite pour appliquer des filtres à la liste.
 		</p>
 		<p>
-<<<<<<< HEAD
-			Vous pouvez envoyer ou recevoir des Namecoins en toquant les boutons dans la barre des actions.
-			Plus d\'options sont disponibles dans le menu des options.
-=======
 			Vous pouvez envoyer ou recevoir des Namecoins en tapant les boutons dans la barre d\'action.
 			Plus d\'options sont disponibles dans le menu options.
->>>>>>> origin/master
 		</p>
 	]]>
 	</string>

@@ -3,21 +3,12 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-<<<<<<< HEAD
-			La parte superior izquierda de la pantalla muestra tu dirección Namecoin seleccionada, que tendrán que conocer quienes te envíen Namecoins.
-			Pulsar para cambiar la dirección.
-		</p>
-		<p>
-			El código QR a la derecha contiene tu dirección Namecoin y puede utilizarse para que otras personas lo exploren.
-			Pulsa sobre el código QR para obtener una versión mayor.
-=======
 			La parte superior izquierda de la pantalla muestra su balance en Namecoins y en una moneda nacional que elija.
 			Toque para ir a la lista de monedas nacionales, y toque en una de las monedas para seleccionarla como predeterminada.
 		</p>
 		<p>
 			El código QR en la derecha contiene su dirección de Namecoin y se puede usar para ser escaneada por alguien más.
 			Toque en el código QR para ver una versión más grande.
->>>>>>> origin/master
 		</p>
 		<p>
 			La parte inferior de la pantalla está cubierta por la lista de sus transacciones, la cual está vacía al principio.
