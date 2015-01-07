@@ -223,7 +223,7 @@ public final class RequestWalletBalanceTask
                                 uxtoScriptBytes = ScriptBuilder.createOutputScript(addresses[0]).getProgram();
                                 uxtoValue = Coin.valueOf(jsonOutput.getLong("value"));
                             }
-                            if(CoinDefinition.UnspentAPI == CoinDefinition.UnspentAPIType.Cryptoid)
+                            if(CoinDefinition.UnspentAPI == CoinDefinition.UnspentAPIType.Abe)
                             {
                                 //if (jsonOutput.getInt("is_spent") != 0)
                                 //     throw new IllegalStateException("UXTO not spent");

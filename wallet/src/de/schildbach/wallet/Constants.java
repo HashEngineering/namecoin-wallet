@@ -142,8 +142,6 @@ public final class Constants
 	public static final int ADDRESS_FORMAT_GROUP_SIZE = 4;
 	public static final int ADDRESS_FORMAT_LINE_SIZE = 12;
 
-//<<<<<<< HEAD
-	public static final int BTC_MAX_PRECISION = 8;
 
 	public static final String LICENSE_URL = "http://www.gnu.org/licenses/gpl-3.0.txt";
 
